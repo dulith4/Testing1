@@ -1,4 +1,8 @@
-Learning new things Adding changes in the branch more changes in main changes in branch Hi new change in branch
+Learning new things
+Adding changes in the branch
+more changes in main
+changes in branch
+
 
 # New Section
 Adding a tag
@@ -12,3 +16,20 @@ work again
 
 
 changes in main
+
+
+Hi 
+new change in branch
+Making anotther conflict
+making another conflict 2
+
+let's do changes
+work again
+jek;ndslkndc
+something new
+changes in the branch
+
+jhbjdcjkskljd
+xsxjsnsnllc
+hbcdcjdc
+
