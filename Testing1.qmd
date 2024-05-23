@@ -37,5 +37,8 @@ adding a new line today
 
 new line again
 
+<<<<<<< HEAD
 new line to amend
 
+=======
+>>>>>>> 75cfbedb3e0cd903007ac46776acda92d50ca09c
